@@ -1,5 +1,7 @@
-Aujourd'hui est un jour idéal pour passer sa journée devant l'ordinateur.
+Aujourd'hui est un jour idÃ©al pour passer sa journÃ©e devant l'ordinateur.
 
 Le temps est pluvieux, venteux et froid.
 
-Quel bonheur de rester au chaud et d'apprendre grâce aux cours d'OpenClassrooms !
+Quel bonheur de rester au chaud et d'apprendre grÃ¢ce aux cours d'OpenClassrooms !
+
+C'est vraiment le top !
