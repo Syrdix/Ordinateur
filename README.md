@@ -1,2 +1,2 @@
 # Ordinateur
-Une journée assis devant l'ordinateur
+Une journée assis devant l'ordinateur pour apprendre.
